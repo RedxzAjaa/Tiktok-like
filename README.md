@@ -1,2 +1,1 @@
-# Tiktok-like
-API tiktok 
+# tiktok-like
